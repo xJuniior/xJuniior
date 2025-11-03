@@ -1,20 +1,38 @@
-## 👋 Introduction
+<!-- h1 without bottom border -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi, I'm Junior</h1></summary>
+  </ul>
+</div>
 
-<img align='right' src='https://avatars.githubusercontent.com/u/82475714?s=400&u=b3fce2354831e9a839ba9080c80666fc85d06999&v=4' width='200"'>
+<!-- Snake -->
+<div align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/raw/readme/resources/grid-snake.svg" alt="snake">
+</div>
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/Ekinoxx0)
-
+<!-- Intro start -->
 Hi, I'm **Junior**. I am a JS/Lua/Java developer from Paris, France. I graduated from Computer Science in Grandmont University.
 I do some works with **Java**, **Lua**, **JS**, **Vue.js** and **C**, contact me if you have some questions!
+<!-- Intro end -->
 
-## 💡 Project with My Work
+<!-- Stats & Trophy -->
+<p align="center">
+  <table align="center" border="0">
+    <tr>
+      <!-- First image (or set of elements) -->
+      <td align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=xJuniior&theme=dark&show_icons=true&count_private=true" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=radnotred&theme=dark&hide_border=false" />
+      </td>
+    </tr>
+  </table>
+</p>
 
-- [**DISCORD**](https://discord.gg/jDM7dxD3): My GTA 5 server
-
-## 📚 General
-
-- 🔭 I’m currently working on ParisNordRP
- 
-## 💻 Work Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ekinoxx0&theme=dark)](https://git.io/streak-stats)
+<!-- Tech stack icons -->
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,mysql,git,linux,docker,express&perline=14" />
+  </a>
+</div>
