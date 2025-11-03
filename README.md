@@ -17,5 +17,5 @@ I do some works with **Java**, **Lua**, **JS**, **Vue.js** and **C**, contact me
  
 ## 💻 Work Stats
 
-![xJuniior's Github stats](https://github-readme-stats.vercel.app/api?username=xJuniior&show_icons=true&theme=blue-green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xJuniior&theme=dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xJuniior&theme=dark)](https://git.io/streak-stats)
