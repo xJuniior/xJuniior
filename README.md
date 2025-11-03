@@ -18,3 +18,4 @@ I do some works with **Java**, **Lua**, **JS**, **Vue.js** and **C**, contact me
 ## 💻 Work Stats
 
 ![xJuniior's Github stats](https://github-readme-stats.vercel.app/api?username=xJuniior&show_icons=true&theme=blue-green)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xJuniior&theme=dark)](https://git.io/streak-stats)
