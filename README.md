@@ -21,6 +21,7 @@
 📫 *Contact me if you have any questions!*
 
 </div>
+</div>
 <!-- Intro end -->
 
 <!-- Intro end -->
