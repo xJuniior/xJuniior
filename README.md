@@ -33,6 +33,6 @@ I do some works with **Java**, **Lua**, **JS**, **Vue.js** and **C**, contact me
 <!-- Tech stack icons -->
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,mysql,git,linux,docker,css,dotnet,html,java,powershell,py&perline=14" />
+    <img src="https://skillicons.dev/icons?i=js,mysql,git,linux,css,dotnet,html,java,powershell,py&perline=14" />
   </a>
 </div>
