@@ -11,8 +11,18 @@
 </div>
 
 <!-- Intro start -->
-Hi, I'm **Junior**. I am a JS/Lua/Java developer from Paris, France. I graduated from Computer Science in Grandmont University.
-I do some works with **Java**, **Lua**, **JS**, **Vue.js** and **C**, contact me if you have some questions!
+<div align="center">
+
+## 👋 Hey, I'm **Junior**
+
+💻 I'm a **JS / Lua / Java** developer from **Paris, France**  
+🎓 Graduated in *Computer Science* at **Grandmont University**  
+🔧 I work with **Java**, **Lua**, **JS**, **Vue.js**, and **C**  
+📫 *Contact me if you have any questions!*
+
+</div>
+<!-- Intro end -->
+
 <!-- Intro end -->
 
 <!-- Stats & Trophy -->
