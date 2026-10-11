@@ -16,7 +16,7 @@
 ## 👋 Hey, I'm **Junior**
 
 💻 I'm a **JS / Lua / Java** developer from **Paris, France**  
-🎓 Graduated in *Computer Science* at **Grandmont University**  
+🎓 Graduated in *Computer Science* at **MIT - Massachusetts Institute of Technology**  
 🔧 I work with **Java**, **Lua**, **JS**, **Vue.js**, and **C**  
 📫 *Contact me if you have any questions!*
 
